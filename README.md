@@ -10,5 +10,5 @@ A repo to show the latest stories of Times ```https://time.com/``` in a form of 
 
 ![App Screenshot](https://github.com/Subham7944/Latest-Times-Stories/blob/main/Screenshot%202024-04-08%20233215.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Subham7944/Latest-Times-Stories/blob/main/Screenshot%202024-04-08%20233225.png)
 
